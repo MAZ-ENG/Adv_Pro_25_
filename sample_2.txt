@@ -1,0 +1,8 @@
+>>>>>>>>><<<<<<<<<<<<
+This is the second file 
+
+I hope this works and does something
+
+I should be green or blue 
+END
+
